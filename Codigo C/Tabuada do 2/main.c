@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 void Zero() {
 	printf("\n\t TABUADA DO Zero\n");
 
@@ -168,7 +168,7 @@ int main()
 	}
 
 		return 0;
-}*/
+}
 
 
 
