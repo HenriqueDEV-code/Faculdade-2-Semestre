@@ -1,0 +1,3 @@
+﻿  main.c
+Z:\PROGRAMACAO\VISUAL STUDIO\Carreira de Estudos Com (C++)\QUIZ-DO-CONHECIMENTO\QUIZ-DO-CONHECIMENTO\main.c(22,13): warning C4013: 'system' indefinido; assumindo extern retornando int
+  QUIZ-DO-CONHECIMENTO.vcxproj -> Z:\PROGRAMACAO\VISUAL STUDIO\Carreira de Estudos Com (C++)\QUIZ-DO-CONHECIMENTO\x64\Debug\QUIZ-DO-CONHECIMENTO.exe
