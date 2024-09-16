@@ -1,0 +1,3 @@
+﻿  main.c
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\ScriptVerificaPalindromo\ScriptVerificaPalindromo\main.c(9,24): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  ScriptVerificaPalindromo.vcxproj -> Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\ScriptVerificaPalindromo\x64\Debug\ScriptVerificaPalindromo.exe
