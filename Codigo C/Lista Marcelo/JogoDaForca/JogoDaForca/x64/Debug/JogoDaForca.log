@@ -1,0 +1,11 @@
+﻿  main.c
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\JogoDaForca\main.c(67,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+      Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\JogoDaForca\main.c(67,11):
+      espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+      Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\JogoDaForca\main.c(67,11):
+      o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+      Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\JogoDaForca\main.c(67,11):
+      esse argumento é usado como um tamanho do buffer
+  
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\JogoDaForca\main.c(50,23): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  JogoDaForca.vcxproj -> Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaForca\x64\Debug\JogoDaForca.exe
