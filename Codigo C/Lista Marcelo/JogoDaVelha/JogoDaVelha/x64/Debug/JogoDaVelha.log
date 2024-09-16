@@ -1,0 +1,4 @@
+﻿  main.c
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaVelha\JogoDaVelha\main.c(81,3): warning C4013: 'Sleep' indefinido; assumindo extern retornando int
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaVelha\JogoDaVelha\main.c(82,3): warning C4013: 'system' indefinido; assumindo extern retornando int
+  JogoDaVelha.vcxproj -> Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\JogoDaVelha\x64\Debug\JogoDaVelha.exe
