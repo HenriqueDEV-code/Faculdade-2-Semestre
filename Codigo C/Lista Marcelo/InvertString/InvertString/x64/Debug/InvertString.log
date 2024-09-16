@@ -1,0 +1,3 @@
+﻿  main.c
+Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\InvertString\InvertString\main.c(7,12): warning C4013: 'strlen' indefinido; assumindo extern retornando int
+  InvertString.vcxproj -> Z:\PROGRAMACAO\VISUAL STUDIO\Projetos Linguagem (C)\Lista Marcelo\InvertString\x64\Debug\InvertString.exe
